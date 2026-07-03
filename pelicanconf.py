@@ -1,8 +1,8 @@
 
 
-AUTHOR          = '<your name>'  # use your name
-SITENAME        = 'title' # use title
-GITHUB_USERNAME = 'tactlabs' # use your username
+AUTHOR          = 'Pramodhini'  # use your name
+SITENAME        = 'Pramodhini' # use title
+GITHUB_USERNAME = 'pramodhini-23' # use your username
 
 
 # Blogroll
@@ -12,8 +12,8 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ("GitHub", "https://github.com/<yourusername>/"),
-    ("LinkedIn", "<linkedin handle>"),
+    ("GitHub", "https://github.com/pramodhini-23/"),
+    ("LinkedIn", "https://www.linkedin.com/in/pramodhini-m-5b4492317/"),
 )
 
 ######## Advanced Settings (not recommended to to edited; take your own risk to touch the settings below) #############
@@ -39,7 +39,7 @@ else:
 
 OUTPUT_PATH     = 'docs'
 PATH            = "content"
-TIMEZONE        = 'America/Toronto'
+TIMEZONE        = 'Asia/Kolkata'
 DEFAULT_LANG    = 'en'
 
 # Feed generation is usually not desired when developing
